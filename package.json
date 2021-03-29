@@ -1,0 +1,25 @@
+{
+  "name": "libStpInvoke",
+  "version": "2.0.0",
+  "description": "Lib nodejs para chamada de qualquer componente externo ao lambda",
+  "main": "index.js",
+  "scripts": {},
+
+  "repository": {},
+  "dependencies": {
+    "xml2js": "*",
+    "util": "*"
+  },
+  "devDependencies": {
+    "http": "*",
+    "https": "*",
+    "aws-sdk": "*"
+  },
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "Marco Tulio",
+  "license": "MIT"
+}
